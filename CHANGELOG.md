@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.1.0...v1.2.0) (2026-01-07)
+
+
+### Features
+
+* **WAL-1137:** update stays webhook when change occur ([0f27d16](https://github.com/kwojtyla/poc-n8n-release-notes/commit/0f27d16f065a743dcbab4994c54b25067c267983))
+
 ## [1.1.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.0.0...v1.1.0) (2026-01-07)
 
 
