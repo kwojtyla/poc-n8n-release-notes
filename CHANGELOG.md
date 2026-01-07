@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.10.0...v1.11.0) (2026-01-07)
+
+
+### Features
+
+* **WAL-1461:** create slack alert when error on workflow ([2783c68](https://github.com/kwojtyla/poc-n8n-release-notes/commit/2783c68cda4a7467184b65da26a14a545ed66e87))
+
 ## [1.9.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.8.0...v1.9.0) (2026-01-07)
 
 
