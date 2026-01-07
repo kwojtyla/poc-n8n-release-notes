@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.7.0...v1.8.0) (2026-01-07)
+
+
+### Features
+
+* **WAL-1438:** add automated property code generation with n8n ([cc1a000](https://github.com/kwojtyla/poc-n8n-release-notes/commit/cc1a0007dfe2ba6ffab648e04710ea195bcc1f11))
+* **WAL-1461:** create slack alert when error on workflow ([1664fce](https://github.com/kwojtyla/poc-n8n-release-notes/commit/1664fceef436b74d971c43f0cb646bf49296fd3d))
+
 ## [1.5.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.4.0...v1.5.0) (2026-01-07)
 
 
