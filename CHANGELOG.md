@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.9.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.8.0...v1.9.0) (2026-01-07)
+
+
+### Features
+
+* **WAL-1438:** add automated property code generation with n8n ([aaac7f4](https://github.com/kwojtyla/poc-n8n-release-notes/commit/aaac7f4ff654e3644b45eebb944a5df77ba9ca33))
+* **WAL-1438:** add automated property code generation with n8n ([7b9e53c](https://github.com/kwojtyla/poc-n8n-release-notes/commit/7b9e53c0e705fb52ac1718e0f3e5d8b395ca677a))
+
 ## [1.8.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.7.0...v1.8.0) (2026-01-07)
 
 
