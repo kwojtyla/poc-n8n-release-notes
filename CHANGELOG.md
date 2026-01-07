@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.1.0](https://github.com/kwojtyla/poc-n8n-release-notes/compare/v1.0.0...v1.1.0) (2026-01-07)
+
+
+### Features
+
+* **WAL-1137:** update phone editing on stays ([8237919](https://github.com/kwojtyla/poc-n8n-release-notes/commit/823791982c86a21b4e863189f3d36f4e03bab642))
+* **WAL-1420:** create email handling on pre-checkin flow ([e9a3bf5](https://github.com/kwojtyla/poc-n8n-release-notes/commit/e9a3bf5e88ca86b988cbdf75396f69456035c024))
+* **WAL-1420:** create email handling on pre-checkin flow ([aa45bcb](https://github.com/kwojtyla/poc-n8n-release-notes/commit/aa45bcb827002054569dc4863ac646f23d4c729b))
+* **WAL-1461:** create alert when phone is updated on slack ([3457e4c](https://github.com/kwojtyla/poc-n8n-release-notes/commit/3457e4c8e530d2017485704908e0869823a19203))
+
+
+### Bug Fixes
+
+* **WAL-1369:** adjust banner on pre-checkin screen ([98cc774](https://github.com/kwojtyla/poc-n8n-release-notes/commit/98cc774452309a5683f3c1d434e48dcf9f77c0a6))
+* **WAL-1369:** adjust banner on pre-checkin screen ([7d33d93](https://github.com/kwojtyla/poc-n8n-release-notes/commit/7d33d93a8549a30c5bdc301ae3c6400838040ca5))
+
 ## 1.0.0 (2026-01-07)
 
 
